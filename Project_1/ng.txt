@@ -1,0 +1,52 @@
+
+
+1. SPA (Single Page Applications)
+2. Routing - #inbox / #/sentItems - #/social/fb  :#/user/:id - user/10
+3. Data Binding - one way / two binding
+4. MVC - MVVM - Two Binding
+5. DI - Dependency Injection
+5. Features
+	- Directives
+	- Filters
+	- Services
+	- Controllers
+	- Routes
+	- Config
+	- Constants
+	- Module
+	- Template Literals
+
+
+Installation:
+	1. angular.min.js
+
+
+angular.module('raviApp', []).directive
+angular.module('raviApp', []).controller
+angular.module('raviApp', []).filter
+angular.module('raviApp', []).config
+angular.module('raviApp', []).factory
+angular.module('raviApp', []).services
+
+
+$scope
+$rootScope
+isolate scope
+
+
+
+
+In Built:
+	ng-app
+	ng-controller
+	ng-init
+	ng-model
+	ng-click
+	ng-repeat
+	ng-class
+	ng-style
+	ng-if
+	ng-switch
+	ng-bind
+
+
